@@ -1,12 +1,14 @@
 # discord-webhook-deleter
-Delete discord webhooks. only use this if you wind a discord webhook inside of a malware file so they cant get any information from any new targets.
+Delete discord webhooks. only use this if you find a discord webhook inside of a malware file so they cant get any information from any new targets.
 
 
 
 how to use 
 
 pip install tkinter
+
 pip install requests
+
 pip install Pillow
 
 
